@@ -8,3 +8,4 @@ By the end of this project, learners should provide actionable insights into ene
 **Anomaly Detection:** Identify irregular patterns indicating faults or unauthorized usage.
 **Smart Grid Integration:** Enable predictive analytics for real-time energy optimization.
 **Environmental Impact:** Reduce carbon footprints and support conservation initiatives.
+Dataset : [Individual Household Electric Power Consumption]((https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption))
